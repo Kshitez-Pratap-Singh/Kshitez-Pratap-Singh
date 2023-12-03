@@ -1,4 +1,4 @@
-![logo](https://github.com/Kshitez-Pratap-Singh/Kshitez-Pratap-Singh/blob/main/1653670117835.png)
+
 <h1 align="center">Hi 👋, I'm Kshitez Pratap Singh</h1>
 <h3 align="center">A passionate Data Analyst / Data Scientist from India</h3>
 <img align="right" alt="analysis" width="400" src="https://www.arkatechture.com/hs-fs/hubfs/Pyramid-new.gif?width=481&name=Pyramid-new.gif">
