@@ -1,4 +1,4 @@
-![Design and Development](https://github.com/Kshitez-Pratap-Singh/Kshitez-Pratap-Singh/blob/main/1653670117835.png)
+![Design and Development](https://github.com/Kshitez-Pratap-Singh/Kshitez-Pratap-Singh/blob/main/1653670117835.jpg)
 <h1 align="center">Hi 👋, I'm Kshitez Pratap Singh</h1>
 <h3 align="center">A passionate Data Analyst / Data Scientist from India</h3>
 <img align="right" alt="analysis" width="400" src="https://gomycode.com/wp-content/uploads/2023/10/2.gif">
