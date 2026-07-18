@@ -32,12 +32,6 @@ I'm a Product Manager who bridges data analytics and execution — I've shipped 
 - **FOMO.gg** — Fintech/gaming platform; user acquisition & content ops
 - **Plavox** — Digital platform product work
 
-### 🎯 Currently
-
-- Running a human-evaluation study comparing AI image-generation models for NCERT-style educational diagrams (Josh Talks AI PM challenge)
-- Designing a fraud-detection flagging system for a transcription platform
-- Actively interviewing for Product/Project Management roles
-
 ---
 
 ### 🧰 Toolkit
