@@ -6,7 +6,7 @@ Associate Product Manager at Renske Technologies · B.Sc. Data Analytics (Gold M
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kshitez-pratap-singh-a124a7239/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/kshitez-pratap-singh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:kshitezpratapsingh0405@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
